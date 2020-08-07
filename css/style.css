@@ -1,0 +1,39 @@
+.container{
+    margin-top: 50px;
+    }
+    .head{
+    min-height:60px;
+    background-color: aqua;
+    }
+    .navbrand{
+    color: brown;
+    padding: 5px;
+    }
+    #lyrics{
+    min-height: 500px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    font-family: 'Hind', sans-serif;
+    }
+    #homecontainer{
+    background-color: aliceblue;
+    min-height: 700px;
+    }
+    #logo{
+    color: rgb(93, 248, 31);
+    font-weight: bold;
+    }
+    .card{
+    margin: 5px;
+       
+    }
+    #card:hover{
+    box-shadow: 3px 3px 5px rgb(0, 0, 0);
+    transition: box-shadow 0.3s ease-in-out;
+    
+    }
+    .adv{
+        position: relative;
+        left:0px;
+        top:10px;
+    }
